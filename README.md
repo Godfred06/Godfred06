@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Godfred Sakyi-Badu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Google Analytics Course on Cousera
 - 💞️ I’m looking to collaborate on anything related to python or data science
 - 📫 How to reach me 
 - Email - golfygolf36@gmail.com
